@@ -65,19 +65,19 @@ skills/
 
 ## Getting started
 
-**1. Get the skill file**
+**On Figma Community:** find `weather-audit` in the [AI Skills library](https://www.figma.com/community/ai-skills) and add it to your agent directly — no download needed.
 
-Clone this repo, or grab it from [Releases](https://github.com/gaspanik/weather-audit-skill/releases):
+**From source:** clone this repo and register the skill file yourself.
 
 ```bash
 git clone https://github.com/gaspanik/weather-audit-skill
 ```
 
-**2. Register `skills/weather-audit/SKILL.md`** in Figma's custom skill feature.
+**1. Register `skills/weather-audit/SKILL.md`** in Figma's custom skill feature.
 
-**3. Select a FRAME or SECTION** on the canvas.
+**2. Select a FRAME or SECTION** on the canvas.
 
-**4. Run it from the chat**
+**3. Run it from the chat**
 
 ```
 /weather-audit
