@@ -65,7 +65,7 @@ skills/
 
 ## Getting started
 
-**On Figma Community:** find `weather-audit` in the [AI Skills library](https://www.figma.com/community/ai-skills) and add it to your agent directly — no download needed.
+**Once published on Figma Community**, you'll be able to add this skill directly from the [AI Skills library](https://www.figma.com/community/ai-skills) — no download needed. Until then, register it from source:
 
 **From source:** clone this repo and register the skill file yourself.
 
