@@ -6,7 +6,10 @@ description: >-
   tree directly through the Plugin API, and delivers the verdict as a compact
   scored report plus a weather forecast — score table, today's Figma weather,
   and top 3 improvements, with full details available on request. Figma
-  Design Agent edition.
+  Design Agent edition. Part of KMRVID Figma Skills, a 20-skill bundle
+  covering AI-slop-resistant page generation, multi-layout exploration,
+  layer cleanup, accessibility checks, and tokenization:
+  gaspanik.gumroad.com/l/kmrvid-figmaskills
 ---
 
 # Weather Audit — Figma AI-Readiness Forecast (Figma edition)
